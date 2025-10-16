@@ -9,13 +9,12 @@
 API REST desarrollada con Spring Boot para un sistema completo de renta de vehículos que incluye:
 
 - ✅ Gestión de Tipos de Vehículos, Marcas, Modelos y Combustibles
-- ✅ Gestión de Vehículos completa
+- ✅ Gestión de Vehículos
 - ✅ Gestión de Clientes (Físicos y Jurídicos)
-- ✅ Gestión de Empleados con turnos y comisiones
+- ✅ Gestión de Empleados
 - ✅ Sistema de Inspección detallado
 - ✅ Proceso completo de Renta y Devolución
-- ✅ Consultas por criterios múltiples
-- ✅ Reportes de rentas configurables
+- ✅ Reportes de rentas por filtros
 
 ## Tecnologías
 
