@@ -93,7 +93,3 @@ src/main/java/com/universidad/apec/rentcar/
 ├── controller/      # Controladores REST
 └── RentCarApiApplication.java
 ```
-
-## Conectar desde Flutter
-
-Ver la guía detallada en el archivo `FLUTTER_GUIDE.md` para instrucciones específicas de integración con tu aplicación Flutter.
